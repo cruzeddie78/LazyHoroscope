@@ -1,4 +1,4 @@
-//Authors:
+//Eddie Alexis Cruz
 #include<iostream>
 #include<string>
 
@@ -6,11 +6,21 @@ using namespace std;
 
 int main()
 {
-  //declare variables
+string first_name;
+string last_name;
 
-  //get user input
+
+  cout<<" What is your first name?";
+  cin>>first_name;
+  cout<<"What is your last name?";
+  cin>>last_name;
+
+
 
   //tell fortune
 
   return 0;
 }
+
+
+
